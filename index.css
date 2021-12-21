@@ -1,0 +1,8 @@
+h2{border: blue;}
+
+.grid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: baseline;
+}
